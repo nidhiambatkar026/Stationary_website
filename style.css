@@ -60,3 +60,10 @@
     padding: 30px 30px;
     margin-left: 38%;
 }
+footer{
+    background-color: black;
+    text-align: center;
+    height: 200px;
+    color: white;
+    align-content: center;
+}
