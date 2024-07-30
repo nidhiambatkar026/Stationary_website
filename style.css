@@ -5,6 +5,7 @@
 .img_logo{
     height: 65px;
     width: 65px;
+    padding-top: 15px;
 }
 .menu_img{
     height: 25px;
@@ -35,6 +36,10 @@
     border-radius: 30px;
     box-shadow: 0px 0px 5px 5px gray;
 }
+.cards:hover{
+    transform: scale(1.1);
+    box-shadow: 10px 0px 10px 0px gray;
+}
 .container{
     display: flex;
 }
@@ -47,6 +52,11 @@
     box-shadow: 0px 0px 5px 5px gray;
     text-align: center;
 }
+.gal_cards:hover{
+    transform: scale(1.1);
+    box-shadow: 10px 0px 10px 0px gray;
+}
+
 .gal_img{
     width: 100%;
     height: 200px;
@@ -61,4 +71,22 @@ footer{
     align-content: center;
     margin-top: 40px;
     font-weight: bold;
+}
+.connect{
+    text-align: center;
+}
+.btn{
+    background-color:  #b3e0ff;
+    border: solid 2px #0099ff;
+    border-radius: 30px;
+}
+.heading{
+    font-family: "Edu AU VIC WA NT Hand", cursive;
+}
+h3{
+    font-family: "Edu AU VIC WA NT Hand", cursive;
+}
+.main{
+    font-family: "Lobster", sans-serif;
+    text-decoration: underline;
 }
