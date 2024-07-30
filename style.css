@@ -1,5 +1,6 @@
 .nav1{
     border-bottom: 2px solid grey;
+    background-color:  #e6e6e6;
 }
 .img_logo{
     height: 65px;
@@ -61,9 +62,11 @@
     margin-left: 38%;
 }
 footer{
-    background-color: black;
+    background-color: #f2f2f2;
     text-align: center;
-    height: 200px;
-    color: white;
+    height: 150px;
+    color: black;
     align-content: center;
+    margin-top: 40px;
+    font-weight: bold;
 }
